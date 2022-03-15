@@ -14,7 +14,7 @@ There are two different Kodi add-ons that serve slightly different use cases.
 
 ### Install Add-on Repository
 
-The most convenient install method of our Jellyfin add-ons is to use the official Kodi Jellyfin Repository.  Using this repository allows for easy install of our add-ons, as well as automatically keeping the add-ons up to date with the latest version.  Any other Jellyfin related add-ons that may be built in the future will also be available here.
+The most convenient install method of our Jellyfin add-ons is to use the official Kodi Jellyfin Repository.  Using this repository allows for easy install of all our add-ons, as well as automatically keeping the add-ons up to date with the latest version.  Any other Jellyfin related add-ons that may be built in the future will also be available here.
 
 The installation method for the repository varies depending on what kind of device you're using, outlined below.
 
@@ -61,6 +61,7 @@ Media in Kodi's database is automatically kept in sync with the server in one of
 ### Install Jellyfin for Kodi Add-on
 
 1. Install Jellyfin for Kodi.
+    * Make sure you've installed the repository browser from the above [General Use Devices (PCs and Tablets)](#general-use-devices-pcs-and-tablets) section.
     * From within Kodi, navigate to "Add-on Browser"
     * Select "Install from Repository"
     * Choose "Kodi Jellyfin Add-ons", followed by "Video Add-ons"
@@ -147,6 +148,7 @@ JellyCon behaves more like a standard Kodi streaming add-on. Media is accessed p
 ### Install JellyCon Add-on
 
 1. Instally JellyCon Add-on
+    * Make sure you've installed the repository browser from the above [General Use Devices (PCs and Tablets)](#general-use-devices-pcs-and-tablets) section.
     * From within Kodi, navigate to "Add-on Browser"
     * Select "Install from Repository"
     * Choose "Kodi Jellyfin Add-ons", followed by "Video Add-ons"
